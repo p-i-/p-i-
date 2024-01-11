@@ -1,16 +1,18 @@
-### Hi there 👋
+### 👋
 
-<!--
-**p-i-/p-i-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My focus is AI/AGI research.
 
-Here are some ideas to get you started:
+I'm working with some sharp minds to start up an open AGI lab (http://sap.ient.ai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+π Jan 2024
+
+
+### 🔸 Previous work
+```
+🔹 Mar-Jun 2023
+    I led AutoGPT from early on until it secured funding ($12M). By that time it had 150k stars on GitHub.
+    I declined an offer to continue leading the project.
+
+🔹 2017-2020 CTO cueaudio.com
+    I led a team to build UltraSound MODEM (C++ lib, iOS/Android wrappers)
+```
